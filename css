@@ -19,7 +19,23 @@ body {
   background-color: var(--light-bg);
   line-height: 1.6;
 }
+body {
+  font-family: Arial;
+  text-align: center;
+  padding: 20px;
+}
 
+input {
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+}
+
+#weather {
+  margin-top: 20px;
+}
 /* ===== Header / Navbar ===== */
 header {
   background-color: var(--secondary-color);
