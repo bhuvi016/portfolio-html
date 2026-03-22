@@ -17,3 +17,11 @@ A responsive multi-page business website built using HTML, CSS, and JavaScript.
 
 ## Deployment
 Hosted on GitHub Pages
+
+## Advanced Features Added
+
+- CSS Grid for layout
+- Flexbox for header
+- CSS Variables for theming
+- Dark/Light mode toggle
+- Animations and transitions
