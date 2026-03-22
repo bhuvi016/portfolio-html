@@ -25,3 +25,22 @@ Hosted on GitHub Pages
 - CSS Variables for theming
 - Dark/Light mode toggle
 - Animations and transitions
+
+# Weather Dashboard App
+
+## Overview
+A weather dashboard using OpenWeatherMap API.
+
+## Features
+- Fetch weather using API
+- Async/await implementation
+- Local Storage (save city)
+- Error handling
+
+## Tech
+- HTML
+- CSS
+- JavaScript
+
+## Deployment
+GitHub Pages
